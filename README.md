@@ -1,6 +1,6 @@
 # Password Manager
 
-This is a password manager allowing users to save their passwords from various websites into a text file.  The program was built using python.
+This is a local, GUI-based application built with Python. It allows users to securely store & manage their website passwords and includes a random password generator.
 
 ## Technology Stack
 
